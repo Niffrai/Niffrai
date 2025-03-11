@@ -16,9 +16,14 @@
 <br><br>
 
 [![My Skills](https://skillicons.dev/icons?i=py,cs,github,obsidian,vscode)](https://skillicons.dev)
+
+<h2 align="center">Ҝ卂ㄒ卂</h2>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+![Codewars](https://github.r2v.ch/codewars?user=Niffrai)
+
 <h2 align="center">丂ㄒ卂ㄒㄩ丂</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niffrai&theme=midnight-purple&show_icons=true)
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
-![Codewars](https://github.r2v.ch/codewars?user=Niffrai)
+
 
