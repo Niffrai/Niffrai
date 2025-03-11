@@ -11,8 +11,6 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdncGs3d2twYTA0OW1yYXdpaDRpMWd6cHhxMDV2dzd3Ymk5OXd1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l6tDL3jzbqUTrXifZH/giphy.gif" width="250", align="right">
   </div>
  <li>
- <b>Name:</b> Nikita</li>
- <li>
    <b>Age:</b> 21</li>
  <li>
  <b>Gender:</b> Man</li>
