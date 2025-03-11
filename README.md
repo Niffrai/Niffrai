@@ -1,5 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niffrai&theme=midnight-purple&show_icons=true)
-
 <div>
 <h2 align="center">  ~ 卂乃ㄖㄩㄒ 爪乇 ~  </h2>
   <br>
@@ -23,3 +21,5 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
  
 [![codewars](https://www.codewars.com/users/Niffrai/badges/small)](https://www.codewars.com/users/Niffrai)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niffrai&theme=midnight-purple&show_icons=true)
