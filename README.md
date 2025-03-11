@@ -17,7 +17,7 @@
  <li>
  <b>Gender:</b> Man</li>
  <b>Other:</b><br>
- &emsp;I watch anime, follow streamers and YouTubers, and in the future I want to start streaming myself.<br> &emsp;I listen to different music, I'm a music lover, and I also play games (my favorite hobby).<br> &emsp;I write code mostly in 
+ &emsp;I watch anime, follow streamers and YouTubers, and in the future I want to start streaming myself.<br>I listen to different music, I'm a music lover, and I also play games (my favorite hobby).<br> I write code mostly in 
  python, but sometimes I also use C#.
 </div>
 <br><br><br><br><br><br><br>
