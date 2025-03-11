@@ -125,7 +125,7 @@ left: 3%;
     75% {
         transform: translate3d(0, 50%, 0); /* Опускаем текст вниз */
     }
-    100% {
+    0% {
         transform: translate3d(0, 0, 0); /* Возвращаем текст в исходное положение */
     }
 }
@@ -150,7 +150,7 @@ p {
         <div class="content__container">
             <ul class="content__container__list">
                 <li class="content__container__list__item">Hello 👋</li>
-                <li class="content__container__list__item">Python </li>
+                <li class="content__container__list__item"></li>
 
             </ul>
         </div>
@@ -160,7 +160,7 @@ p {
             <ul class="content__container__list">
                 <li class="content__container__list__item">I'm Niffrai </li>
                 <li class="content__container__list__item">Developer</li>
-
+		<li class="content__container__list__item">Developer</li>
             </ul>
         </div>
     </div>
