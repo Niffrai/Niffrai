@@ -120,12 +120,7 @@ left: 3%;
 
     33.32%,
     45.98% {
-        transform: translate3d(0, -50%, 0);
-    }
-				
-    12.66%,
-    100% {
-        transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 50%, 0);
     }
 
 }
