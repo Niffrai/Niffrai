@@ -157,7 +157,7 @@ p {
 }
 </style>
 	
-<div class="gif-container">
+<div class="gif-container" id="header" align="center">
 	<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVvZTY0cDljbzVkZHhkcHV0YjQ5NGFjbjQ5ZnM5dWtrejlvb25ncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l6tDL3jzbqUTrXifZH/giphy.gif" width="100"/> 
 </div>
 <div class="container">
