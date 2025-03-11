@@ -22,7 +22,7 @@
     height: 400px;
     background: linear-gradient(-45deg, #273849, #0d1117);
     background-size: 200% 200%;
-    animation: gradient 3s ease infinite;
+    animation: gradient 7s ease infinite;
     border-radius: 20px;
     color: white;
     text-align: left;
@@ -83,7 +83,7 @@ left: 3%;
     text-align: left;
     list-style: none;
     -webkit-animation-name: change;
-    -webkit-animation-duration: 10s;
+    -webkit-animation-duration: 5s;
     -webkit-animation-iteration-count: infinite;
     animation-name: change;
     animation-duration: 8s; /* Увеличим длительность анимации для плавности */
