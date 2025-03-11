@@ -16,7 +16,7 @@
    <b>Age:</b> 21</li>
  <li>
  <b>Gender:</b> Man</li>
- <b>Other:</b>
+ <b>Other:</b><br>
  I watch anime, follow streamers and YouTubers. I listen to different music, music lover. I write code mostly in python, but I also rarely use C#
 </div>
 <br><br><br><br><br><br><br>
