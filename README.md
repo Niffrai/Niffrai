@@ -1,3 +1,9 @@
+<div style="float: left;">
+ <br>
+  <img src="newheader.svg" alt="Niffrai">
+ <br>
+</div>
+
 <div>
 <h2 align="center">  ~ 卂乃ㄖㄩㄒ 爪乇 ~  </h2>
   <br>
