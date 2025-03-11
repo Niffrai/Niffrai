@@ -19,6 +19,10 @@
   [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" />
   [![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+  [![Vscode](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" />
+  [![GitHub](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+  
 </div>
 
 
