@@ -14,8 +14,15 @@
 <br><br><br><br><br><br><br>
 <h2 align="center">   丂Ҝ丨ㄥ丂  </h2>
 <br><br>
+<div>
+  
+  [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+  
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="25" height="25" />
+  
+  [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+</div>
 
-[![My Skills](https://skillicons.dev/icons?i=py,cs,github,obsidian,vscode)](https://skillicons.dev)
 
 <h2 align="center">Ҝ卂ㄒ卂</h2>
 
