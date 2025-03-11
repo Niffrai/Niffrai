@@ -152,10 +152,14 @@ p {
 
         <div class="content__container">
             <ul class="content__container__list">
-                <li class="content__container__list__item">I'm Niffrai </li>
+                <li class="content__container__list__item">I'm Nikita </li>
 		<li class="content__container__list__item">Developer</li>
             </ul>
         </div>
+    </div>
+
+    <div class="gif-container">
+        <img src="https://example.com/your-gif.gif" alt="GIF" width="100" height="100" />
     </div>
     <div class="kikocontainer">
         <p>
