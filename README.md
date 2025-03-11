@@ -13,7 +13,7 @@
 </div>
 <br><br><br><br><br><br><br>
 <h2 align="center">   丂Ҝ丨ㄥ丂  </h2>
-<br><br>
+<br>
 <div style="display: flex; align-items: center; gap: 10px;">
   
   [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
