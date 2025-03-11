@@ -14,7 +14,7 @@
 <br><br><br><br><br><br><br>
 <h2 align="center">   丂Ҝ丨ㄥ丂  </h2>
 <br><br>
-
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
 [![My Skills](https://skillicons.dev/icons?i=py,cs,github,obsidian,vscode)](https://skillicons.dev)
 
 <h2 align="center">Ҝ卂ㄒ卂</h2>
