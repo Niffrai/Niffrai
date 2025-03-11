@@ -18,7 +18,7 @@
  <b>Gender:</b> Man</li>
  <li>
  <b>Other:</b></li>
- <h5>a</h5>
+I watch anime, follow streamers and YouTubers. I listen to different music, music lover. I write code mostly in python, but I also rarely use C.#
 </div>
 <br><br><br><br><br><br><br>
 <h2 align="center">   丂Ҝ丨ㄥ丂  </h2>
