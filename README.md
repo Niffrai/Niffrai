@@ -16,6 +16,11 @@
    <b>Age:</b> 21</li>
  <li>
  <b>Gender:</b> Man</li>
+ <li>
+ <b>Other:</b> Nikita</li>
+ <li>
+  asd
+ </li>
 </div>
 <br><br><br><br><br><br><br>
 <h2 align="center">   丂Ҝ丨ㄥ丂  </h2>
