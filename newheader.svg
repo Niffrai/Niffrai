@@ -159,9 +159,8 @@ p {
         <div class="content__container">
             <ul class="content__container__list">
                 <li class="content__container__list__item">Hello 👋</li>
-                <li class="content__container__list__item">Kotlin </li>
-                <li class="content__container__list__item">Unity </li>
-                <li class="content__container__list__item">Jetpack </li>
+                <li class="content__container__list__item">Developer </li>
+
             </ul>
         </div>
 
@@ -177,7 +176,7 @@ p {
     </div>
     <div class="kikocontainer">
         <p>
-            Kiko
+            Niffrai
         </p>
     </div>
 </div>
