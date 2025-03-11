@@ -86,8 +86,9 @@ left: 3%;
     -webkit-animation-duration: 10s;
     -webkit-animation-iteration-count: infinite;
     animation-name: change;
-    animation-duration: 10s;
+    animation-duration: 8s; /* Увеличим длительность анимации для плавности */
     animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out; /* Плавное ускорение и замедление */
 }
 .content__container__list__item {
     line-height: 50px;
@@ -112,17 +113,18 @@ left: 3%;
     }
 }
 @keyframes change {
-    0%,
-    12.66%,
-    100% {
-        transform: translate3d(0, 0, 0);
+    0%, 100% {
+        transform: translate3d(0, 0, 0); /* Начальное и конечное положение */
     }
-
-    33.32%,
-    45.98% {
-        transform: translate3d(0, -50%, 0);
+    25% {
+        transform: translate3d(0, -50%, 0); /* Поднимаем текст вверх */
     }
-
+    50% {
+        transform: translate3d(0, 0, 0); /* Возвращаем текст в исходное положение */
+    }
+    75% {
+        transform: translate3d(0, 50%, 0); /* Опускаем текст вниз */
+    }
 }
 h1 {
     font-size: 50px;
