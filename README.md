@@ -17,10 +17,8 @@
  <li>
  <b>Gender:</b> Man</li>
  <li>
- <b>Other:</b> Nikita</li>
- <li>
-  asd
- </li>
+ <b>Other:</b></li>
+ <h1>a</h1>
 </div>
 <br><br><br><br><br><br><br>
 <h2 align="center">   丂Ҝ丨ㄥ丂  </h2>
