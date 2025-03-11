@@ -1,3 +1,8 @@
+<svg fill="none" viewBox="0 0 1500 400" width="1500" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				
 .container {
     font-family:
         system-ui,
@@ -22,9 +27,8 @@
     color: white;
     text-align: left;
 }
-
 .rowcontainer {
-    position: absolute;
+    position:absolute;
     top: 10%;
     height: 160px;
     overflow: hidden;
@@ -33,15 +37,15 @@
     line-height: 40px;
     color: #ecf0f1;
 }
-
+				
 .kikocontainer {
-    display: flex;
-    margin: 0;
+				display: flex;
+				margin: 0;
     width: 100%;
     align-items: left;
     justify-content: left;
-    position: absolute;
-    left: 3%;
+    position:absolute;
+left: 3%;
     top: 55%;
     height: 160px;
     overflow: hidden;
@@ -49,9 +53,8 @@
     font-size: 35px;
     line-height: 40px;
     color: #ecf0f1;
-    text-align: left;
+				text-align: left;
 }
-
 @keyframes gradient {
     0% {
         background-position: 0% 50%;
@@ -63,51 +66,64 @@
         background-position: 0% 50%;
     }
 }
-
 .content__container {
     font-weight: 50px;
     overflow: hidden;
     height: 50px;
     padding: 0 50px;
 }
-
 .content__container__text {
     display: inline;
     float: left;
     margin: 0;
 }
-
 .content__container__list {
     margin-top: 0;
     padding-left: 0px;
     text-align: left;
     list-style: none;
+    -webkit-animation-name: change;
+    -webkit-animation-duration: 10s;
+    -webkit-animation-iteration-count: infinite;
     animation-name: change;
-    animation-duration: 8s; /* Увеличим длительность анимации для плавности */
+    animation-duration: 10s;
     animation-iteration-count: infinite;
-    animation-timing-function: ease-in-out; /* Плавное ускорение и замедление */
 }
-
 .content__container__list__item {
     line-height: 50px;
     margin: 0;
 }
-
-@keyframes change {
-    0%, 100% {
-        transform: translate3d(0, 0, 0); /* Начальное и конечное положение */
-    }
-    25% {
-        transform: translate3d(0, -50%, 0); /* Поднимаем текст вверх */
+@-webkit-keyframes opacity {
+    0%,
+    100% {
+        opacity: 0;
     }
     50% {
-        transform: translate3d(0, 0, 0); /* Возвращаем текст в исходное положение */
-    }
-    75% {
-        transform: translate3d(0, 50%, 0); /* Опускаем текст вниз */
+        opacity: 1;
     }
 }
+@keyframes opacity {
+    0%,
+    100% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+}
+@keyframes change {
+    0%,
+    12.66%,
+    100% {
+        transform: translate3d(0, 0, 0);
+    }
 
+    33.32%,
+    45.98% {
+        transform: translate3d(0, -50%, 0);
+    }
+
+}
 h1 {
     font-size: 50px;
     color: #efefef;
@@ -115,7 +131,6 @@ h1 {
     font-weight: 400;
     line-height: 20%;
 }
-
 p {
     font-size: 80px;
     color: #3da47a;
@@ -123,3 +138,32 @@ p {
     font-weight: bold;
     line-height: 20%;
 }
+</style>
+
+<div class="container">
+    <div class="rowcontainer">
+        <div class="content__container">
+            <ul class="content__container__list">
+                <li class="content__container__list__item">Hello 👋</li>
+                <li class="content__container__list__item">Python </li>
+
+            </ul>
+        </div>
+
+
+        <div class="content__container">
+            <ul class="content__container__list">
+                <li class="content__container__list__item">I'm Niffrai </li>
+                <li class="content__container__list__item">Developer</li>
+
+            </ul>
+        </div>
+    </div>
+    <div class="kikocontainer">
+        <p>
+            Niffrai
+        </p>
+    </div>
+</div>
+
+</div></foreignObject></svg>
