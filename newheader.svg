@@ -112,7 +112,7 @@ left: 3%;
     }
 }
 @keyframes change {
-    0%, 100% {
+    0%{
         transform: translate3d(0, 0, 0); /* Начальное и конечное положение */
     }
     25% {
