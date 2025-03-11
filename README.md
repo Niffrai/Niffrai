@@ -19,8 +19,8 @@
 
 <h2 align="center">Ҝ卂ㄒ卂</h2>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
-![Codewars](https://github.r2v.ch/codewars?user=Niffrai)
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool){width=200}
+![Codewars](https://github.r2v.ch/codewars?user=Niffrai){width=200}
 
 <h2 align="center">丂ㄒ卂ㄒㄩ丂</h2>
 
