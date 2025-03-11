@@ -20,5 +20,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niffrai&theme=midnight-purple&show_icons=true)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
-[![codewars](https://www.codewars.com/users/Niffrai/badges/small)](https://www.codewars.com/users/Niffrai)
+![Codewars](https://github.r2v.ch/codewars?user=USERNAME)
 
