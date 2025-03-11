@@ -17,10 +17,8 @@
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="icon" width="65" height="65" />
 
-
-[![My Skills](https://skillicons.dev/icons?i=py,cs,github,obsidian,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=obsidian,vscode)](https://skillicons.dev)
 
 <h2 align="center">Ҝ卂ㄒ卂</h2>
 
