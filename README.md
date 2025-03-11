@@ -15,10 +15,7 @@
 <h2 align="center">   丂Ҝ丨ㄥ丂  </h2>
 <br><br>
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=py,cs,github,obsidian,vscode)](https://skillicons.dev)
  
 [![codewars](https://www.codewars.com/users/Niffrai/badges/small)](https://www.codewars.com/users/Niffrai)
 
