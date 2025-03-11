@@ -125,9 +125,6 @@ left: 3%;
     75% {
         transform: translate3d(0, 50%, 0); /* Опускаем текст вниз */
     }
-    100% {
-        transform: translate3d(0, 0, 0); /* Возвращаем текст в исходное положение */
-    }
 }
 h1 {
     font-size: 50px;
