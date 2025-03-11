@@ -20,7 +20,7 @@
  &emsp;I watch anime, follow streamers and YouTubers, and in the future I want to start streaming myself.<br> I listen to different music, I'm a music lover, and I also play games (my favorite hobby).<br> &emsp;	I write code mostly in 
  python, but sometimes I also use C#.
 </div>
-<br><br><br><br><br><br><br>
+<br><br><br><br>
 <h2 align="center">   丂Ҝ丨ㄥ丂  </h2>
 <br>
 <div style="display: flex; align-items: center; gap: 10px;">
