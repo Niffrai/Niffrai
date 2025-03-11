@@ -14,7 +14,7 @@
 <br><br><br><br><br><br><br>
 <h2 align="center">   丂Ҝ丨ㄥ丂  </h2>
 <br><br>
-<div>
+<div style="display: flex; align-items: center; gap: 10px;">
   
   [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
   
