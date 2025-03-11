@@ -7,7 +7,7 @@
  <li>
  <b>Name:</b> Nikita</li>
  <li>
-   <b>Age:</b> 20</li>
+   <b>Age:</b> 21</li>
  <li>
  <b>Gender:</b> Man</li>
 </div>
@@ -22,4 +22,6 @@
  
 [![codewars](https://www.codewars.com/users/Niffrai/badges/small)](https://www.codewars.com/users/Niffrai)
 
+
+<h2 align="center">丂ㄒ卂ㄒㄩ丂</h2>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niffrai&theme=midnight-purple&show_icons=true)
