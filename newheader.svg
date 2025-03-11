@@ -112,17 +112,18 @@ left: 3%;
     }
 }
 @keyframes change {
-    0%,
-    12.66%,
-    100% {
-        transform: translate3d(0, 0, 0);
+    0%, 100% {
+        transform: translate3d(0, 0, 0); /* Начальное и конечное положение */
     }
-
-    33.32%,
-    45.98% {
-        transform: translate3d(0, -50%, 0);
+    25% {
+        transform: translate3d(0, -50%, 0); /* Поднимаем текст вверх */
     }
-
+    50% {
+        transform: translate3d(0, 0, 0); /* Возвращаем текст в исходное положение */
+    }
+    75% {
+        transform: translate3d(0, 50%, 0); /* Опускаем текст вниз */
+    }
 }
 h1 {
     font-size: 50px;
