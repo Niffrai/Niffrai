@@ -138,28 +138,8 @@ p {
     line-height: 20%;
 }
 
-.gif-container {
-    position: absolute;
-    right: 20px; /* Отступ справа */
-    top: 50%; /* Центрирование по вертикали */
-    transform: translateY(-50%); /* Точное центрирование */
-    width: 100px; /* Ширина гифки */
-    height: 100px; /* Высота гифки */
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.gif-container img {
-    max-width: 100%;
-    max-height: 100%;
-    border-radius: 10px; /* Опционально: скругление углов */
-}
 </style>
-	
-<div class="gif-container">
-	<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVvZTY0cDljbzVkZHhkcHV0YjQ5NGFjbjQ5ZnM5dWtrejlvb25ncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l6tDL3jzbqUTrXifZH/giphy.gif" width="10"/> 
-</div>
+
 <div class="container">
     <div class="rowcontainer">
         <div class="content__container">
