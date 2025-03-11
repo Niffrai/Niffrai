@@ -20,7 +20,7 @@
 <h2 align="center">Ҝ卂ㄒ卂</h2>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Niffrai?theme=unicorn&font=Noto%20Sans%20Multani)
-![Codewars](https://github.r2v.ch/codewars?user=Niffrai&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+![Codewars](https://github.r2v.ch/codewars?user=Niffrai&name=true&stroke=%23b362ff&theme=purple_dark)
 
 <h2 align="center">丂ㄒ卂ㄒㄩ丂</h2>
 
