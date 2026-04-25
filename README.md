@@ -14,22 +14,27 @@
    <b>Age:</b> 22</li>
  <li>
  <b>Gender:</b> Man</li>
+ <b>Other:</b><br>
+ &emsp;I watch anime, follow streamers and YouTubers, and in the future I want to start streaming myself.<br> I listen to different music, I'm a music lover, and I also play games (my favorite hobby).<br> &emsp;	I write code mostly in 
+ python, but sometimes I also use C#.
 </div>
 <br><br><br><br>
 <h2 align="center">   丂Ҝ丨ㄥ丂  </h2>
 <br>
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: nowrap; min-width: max-content;">
 
-[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" />
-[![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" />
-[![Vscode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" />
-[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" />
-[![Obsidian](https://skillicons.dev/icons?i=obsidian)](https://skillicons.dev)
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" />
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+  [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" />
+  [![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" />
+  [![Vscode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" />
+  [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" />
+  [![Obsidian](https://skillicons.dev/icons?i=obsidian)](https://skillicons.dev)
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" />
+  [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+</div>
 
 
 <h2 align="center">Ҝ卂ㄒ卂</h2>
@@ -40,5 +45,4 @@
 <h2 align="center">丂ㄒ卂ㄒㄩ丂</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niffrai&theme=midnight-purple&show_icons=true)
-
 
