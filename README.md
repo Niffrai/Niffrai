@@ -23,16 +23,11 @@
 <br>
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: nowrap; min-width: max-content;">
 
-  [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" />
-  [![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" />
-  [![Vscode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" />
-  [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" />
-  [![Obsidian](https://skillicons.dev/icons?i=obsidian)](https://skillicons.dev)
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" />
+  [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" />
+  [![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" />
+  [![Vscode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" />
+  [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" />
+  [![Obsidian](https://skillicons.dev/icons?i=obsidian)](https://skillicons.dev)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" />
   [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 </div>
 
