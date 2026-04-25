@@ -14,9 +14,6 @@
    <b>Age:</b> 22</li>
  <li>
  <b>Gender:</b> Man</li>
- <b>Other:</b><br>
- &emsp;I watch anime, follow streamers and YouTubers, and in the future I want to start streaming myself.<br> I listen to different music, I'm a music lover, and I also play games (my favorite hobby).<br> &emsp;	I write code mostly in 
- python, but sometimes I also use C#.
 </div>
 <br><br><br><br>
 <h2 align="center">   丂Ҝ丨ㄥ丂  </h2>
