@@ -21,7 +21,16 @@
 <br><br><br><br>
 <h2 align="center">   丂Ҝ丨ㄥ丂  </h2>
 <br>
-<div style="display: flex; align-items: center; gap: 5px; flex-wrap: nowrap; min-width: max-content;">
+<table>
+ <tr>
+  <td>[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)</td>
+  <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" /></td>
+  <td>[![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)</td>
+  <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" /></td>
+  <td>[![Vscode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)</td>
+ </tr>
+
+</table>
  
   [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" />
