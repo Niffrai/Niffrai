@@ -23,11 +23,13 @@
 <br>
 <table>
  <tr>
-  <td>[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)</td>
+  
+  <td> [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev) </td>
   <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" /></td>
-  <td>[![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)</td>
+  <td> [![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) </td>
   <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" /></td>
-  <td>[![Vscode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)</td>
+  <td> [![Vscode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) </td>
+ 
  </tr>
 
 </table>
