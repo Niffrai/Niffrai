@@ -28,7 +28,9 @@
   [![Vscode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" />
   [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" />
   [![Obsidian](https://skillicons.dev/icons?i=obsidian)](https://skillicons.dev)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" />
-  [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+  [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" />
+  [![Fastapi](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grey%20Heart.png" alt="Grey Heart" width="45" height="45" />
+  [![Grafana](https://skillicons.dev/icons?i=grafana)](https://skillicons.dev)
 </div>
 
 
